@@ -1,2 +1,2 @@
 Hey
-first commite
+first commit
